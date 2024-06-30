@@ -9,6 +9,14 @@ The Tournament Scheduler is a Python-based application that allows users to mana
 
 Instead of using standard Round Robin scheduling algorithm, this project used my own made match scheduling algorithm named **PAIR TABLE ALGORITHM**. This algorithm was an inspiration from old version of standard match making which is favourable for "between tournament country travels". This algorithm is the most optimal for fair rest days, home ground plays and reduced inter-country travel
 
+## Screenshots
+![image](Screenshots/img1.png)
+![image](Screenshots/img0.png)
+![image](Screenshots/img3.png)
+![image](Screenshots/img4.png)
+![image](Screenshots/img2.png)
+
+
 ## Concepts used
 
 - Basic Data Structures
