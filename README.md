@@ -1,4 +1,4 @@
-# Tournament Scheduler
+# Match Master - The Tournament Scheduler
 
 ## Overview
 
