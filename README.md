@@ -1,3 +1,4 @@
+![image](images/MatchMaster.png)
 # Match Master - The Tournament Scheduler
 
 ## Overview
